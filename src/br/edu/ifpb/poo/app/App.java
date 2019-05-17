@@ -28,4 +28,5 @@ public class App {
 		table.diceSize();
 		table.startGame();
 	}
+
 }
