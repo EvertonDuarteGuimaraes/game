@@ -69,5 +69,4 @@ public class Table {
 		} while (playerOneOline == 0 || playerTwoOline == 0);
 
 	}
-
 }
